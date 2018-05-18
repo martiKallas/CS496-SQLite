@@ -1,0 +1,17 @@
+<resources>
+    //title
+    <string name="app_name">SQLiteandLocation</string>
+
+    //Entry features
+    <string name="sqEntryTitle">Note:</string>
+    <string name="sqSaveEntry">Save Note</string>
+    <string name="sqSavedTitle">Saved Notes:</string>
+
+    //list features
+    <string name="listNoteError">No Note Found!</string>
+    <string name="listLocationLabel">Note created at:</string>
+    <string name="listLatLabel">Lat: </string>
+    <string name="listLatError">No Lat </string>
+    <string name="listLongLabel">Long: </string>
+    <string name="listLongError">No Long</string>
+</resources>
